@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Vi+H7zIRQYX/XEpKKpJ2R0a1T8X3TA5pvOULvo1rIpkaGs9NkuPqxAXUd/I7h+gbxQX6VHnXvkkNiXuhbhd/w==",
+  "success": true,
+  "projectFilePath": "D:\\Asp_Projects\\Chapter_6_Visual_Studio\\Chapter_6_Visual_Studio\\Chapter_6_Visual_Studio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
