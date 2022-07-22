@@ -4,4 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Cake.Npm" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.2.0" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties bower_1json__JsonSchema="https://json.schemastore.org/bowerrc.json" /></VisualStudio></ProjectExtensions>
+
 </Project>
