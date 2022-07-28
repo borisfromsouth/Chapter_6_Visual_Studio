@@ -1,4 +1,3 @@
-using System;
 
 namespace Chapter_6_Visual_Studio.Models
 {

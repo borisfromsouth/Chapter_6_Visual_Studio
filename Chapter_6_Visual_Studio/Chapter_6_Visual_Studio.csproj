@@ -5,9 +5,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Cake.Npm" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.2.0" />
+    <PackageReference Include="Moq" Version="4.18.1" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties bower_1json__JsonSchema="https://json.schemastore.org/bowerrc.json" /></VisualStudio></ProjectExtensions>

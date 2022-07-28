@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Прочие файлы",
       "ColorIndex": -1
+    },
+    "86c65d20-a15a-49cc-a777-eef12127337f": {
+      "ProjectGuid": "86c65d20-a15a-49cc-a777-eef12127337f",
+      "DisplayName": "Chapter_6_Visual_Studio.Tests",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

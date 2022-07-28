@@ -39,4 +39,6 @@ D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\obj\Debug\net5.0
 D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\bin\Debug\net5.0\Cake.Npm.dll
 D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\bin\Debug\net5.0\bower.json
 D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
-D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\obj\Debug\net5.0\Chapter_6_Visual_Studio.csproj.AssemblyReference.cache
+D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\obj\Debug\net5.0\Razor\Views\Home\AddProduct.cshtml.g.cs
+D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\bin\Debug\net5.0\Castle.Core.dll
+D:\Asp_Projects\Chapter_6_Visual_Studio\Chapter_6_Visual_Studio\bin\Debug\net5.0\Moq.dll
